@@ -1,2 +1,6 @@
 this is new file 2 !!!!
+<<<<<<< HEAD
 line2
+=======
+line22
+>>>>>>> branch-b
